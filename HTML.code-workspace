@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../steller"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "steller",
+		"livePreview.defaultPreviewPath": "c:\\Users\\91987\\Desktop\\coding\\HTML\\portfolio\\index.html"
+	}
+}
